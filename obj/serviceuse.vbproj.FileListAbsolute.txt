@@ -1,0 +1,9 @@
+X:\Version7.5\samples\serviceuse\obj\Debug\serviceuse.exe
+X:\Version7.5\samples\serviceuse\obj\Debug\serviceuse.xml
+X:\Version7.5\samples\serviceuse\obj\Debug\serviceuse.pdb
+X:\Version7.5\samples\serviceuse\bin\serviceuse.exe
+X:\Version7.5\samples\serviceuse\bin\serviceuse.pdb
+X:\Version7.5\samples\serviceuse\bin\serviceuse.xml
+X:\Version7.5\samples\serviceuse\obj\Debug\ResolveAssemblyReference.cache
+X:\Version7.5\samples\serviceuse\obj\Debug\serviceuse.frmInfoRouterSample.resources
+X:\Version7.5\samples\serviceuse\obj\Debug\serviceuse.vbproj.GenerateResource.Cache

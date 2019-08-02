@@ -1,0 +1,9 @@
+obj\Debug\serviceuse.exe
+obj\Debug\serviceuse.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\serviceuse.frmInfoRouterSample.resources
+obj\Debug\serviceuse.vbproj.GenerateResource.Cache
+bin\serviceuse.exe
+bin\serviceuse.pdb
+bin\serviceuse.xml
+obj\Debug\serviceuse.xml

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="serviceuse">
+</Property><Property Name="Solution File" Value="E:\Version7.5\samples\serviceuse\serviceuse.sln">
+</Property><Property Name="Date" Value="24 Ekim 2007 Çarşamba">
+</Property><Property Name="Time" Value="13:29">
+</Property></Properties><Event ErrorLevel="0" Project="serviceuse" Source="serviceuse.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="serviceuse" Source="serviceuse.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="serviceuse.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="serviceuse.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="serviceuse" Source="serviceuse.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
